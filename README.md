@@ -1,28 +1,24 @@
-# Hi there, I'm WateryBird! 👋
+# Hi there, I'm Marco Farruggio! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in artificial intelligence, machine learning and deep learning. 
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in digital signal processing and machine learning. 
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python
-- Frameworks & Libraries: NumPy, Pybernetics, TKinter
-- Tools & Platforms: Github
+- Programming Languages: Rust, Python, SQL, HTML, CSS
+- Frameworks & Libraries: cpal, egui, eframe, windows, NumPy, Pybernetics, TKinter
+- Tools & Platforms: Github, VS Code
 
 ## 📈 GitHub Stats
 ![WateryBird's GitHub stats](https://github-readme-stats.vercel.app/api?username=WateryBird&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
-- Advanced API integration
+- Cache Friendly Code
 
 ## 🚀 Projects
 Here are a few projects I've been working on:
 - [Pybernetics]([link](https://github.com/WateryBird/pybernetics/tree/main)): Brief description of what the project does or its purpose.
 
-# 📫 How to Reach Me
+## 📫 How to Reach Me
 - Email: marcofarruggiopersonal@gmail.com
 
 ## 💬 Let's Collaborate!
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you'd like to work together!
-
----
-
-Thanks for visiting my profile! Have a great day! 😄
+I'd love to collaborate on interesting projects and ideas so please do feel free to reach out if you'd like to work together!
