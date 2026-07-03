@@ -21,6 +21,7 @@ Here are a few projects I've been working on:
 
 ## 📫 How to Reach Me
 - Email: marcofarruggiopersonal@gmail.com
+  (or) <Anything>@marcofarruggio.com
 
 ## 💬 Let's Collaborate!
 I'd love to collaborate on interesting projects and ideas so please do feel free to reach out if you'd like to work together!
