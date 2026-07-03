@@ -7,9 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - Frameworks & Libraries: cpal, egui, eframe, windows, NumPy, Pybernetics, TKinter
 - Tools & Platforms: Github, VS Code
 
-## 📈 GitHub Stats
-![WateryBird's GitHub stats](https://github-readme-stats.vercel.app/api?username=WateryBird&show_icons=true&theme=radical)
-
 ## 🌱 Currently Learning
 - Cache Friendly Code
 
