@@ -15,7 +15,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 Projects
 Here are a few projects I've been working on:
-- [Pybernetics]([link](https://github.com/WateryBird/pybernetics/tree/main)): Brief description of what the project does or its purpose.
+- [Pybernetics]([link](https://github.com/WateryBird/pybernetics/tree/main)): Neural Networks, Machine Learning, Deep Learning, and Artifical Intelligence,
+  all in a sequential layered network framework.
+- [Node]([link](https://github.com/WateryBird/node/tree/main)): Peer2Peer local messaging app.
 
 ## 📫 How to Reach Me
 - Email: marcofarruggiopersonal@gmail.com
