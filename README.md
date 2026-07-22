@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer & audiophile with a kee
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Rust, Python, SQL, HTML, CSS
-- Frameworks & Libraries: cpal, egui, eframe, windows, NumPy, Pybernetics, TKinter
+- Frameworks & Libraries: cpal, egui, eframe, windows, NumPy, Pybernetics, CustomTKinter
 - Tools & Platforms: Github, VS Code
 
 ## 🌱 Currently Learning
