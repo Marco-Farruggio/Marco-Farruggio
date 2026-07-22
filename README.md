@@ -1,6 +1,6 @@
 # Hi there, I'm Marco Farruggio! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in digital signal processing and machine learning. 
+Welcome to my GitHub profile! I'm a passionate developer & audiophile with a keen interest in digital signal processing and machine learning. 
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Rust, Python, SQL, HTML, CSS
@@ -18,7 +18,7 @@ Here are a few projects I've been working on:
 
 ## 📫 How to Reach Me
 - Email: marcofarruggiopersonal@gmail.com
-  (or) <Anything>@marcofarruggio.com
+  (or) {Anything}@marcofarruggio.com
 
 ## 💬 Let's Collaborate!
 I'd love to collaborate on interesting projects and ideas so please do feel free to reach out if you'd like to work together!
